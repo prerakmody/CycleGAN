@@ -11,7 +11,7 @@ import time
 import random
 
 
-from layers import *
+from src.layers import *
 
 img_height = 256
 img_width = 256

@@ -1,4 +1,9 @@
-__pycache__/
+
+# System Created
+*__pycache__*
+*.ipynb_checkpoints*
+
+# User Created
+data/
 output/
 input/
-MNIST_data
